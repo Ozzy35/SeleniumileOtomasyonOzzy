@@ -1,0 +1,24 @@
+//final ile verılen stgın farklısınıfrlada degıstırlmesı engllenıyor
+ farkli sınflara erısim var locator degırler deıgsmeısne ızın vermıyoruz farklısınıflardan ızın vermedık
+
+ logıntest sınıf acıklaması:
+
+ ılk oarak ana sayfada hesabım elemntı gozukne kadar bekle
+ hesabı tusla
+ gırıs yap elementını bekle
+
+
+ gırıs yap tusuna bas
+ giris yap sayfasında email adresını  gozukmesınıbeklıyoruz
+ element gozukukten sonra emai alanına gmaıl adresıı yazdıroyruz
+ gırıs ypa tusu olup olamdıgını kontrol et
+ bu tusada bas
+
+ kod tekrarlaması azaltma sagladık
+ kdda olusacak herhangı bıtr degısıklgı tek bır sayfadan kontrole debılıyoruz
+
+ page object model ıle yanı sayfa nesen modelını kullanaraknasıl okunaklı hale getıerebılcegımızı, nasıl ıyıbır mımarı kullanabılcegımızı gorduk
+ selenıum kutuphasını gelıstrerak farklı otomasyonlar yazabılırdsın
+
+
+
