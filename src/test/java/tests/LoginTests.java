@@ -43,7 +43,7 @@ public class LoginTests {
     }
 
     @Test
-    void hesiburadaLoginTesti() throws InterruptedException {
+    void hepsiburadaLoginTesti() throws InterruptedException {
 
         try {
 
@@ -74,7 +74,6 @@ public class LoginTests {
         girisYapSayfasi.tusaBas(girisYapSayfasi.girisYapTusu);
 
 //        excilicpt bekleme yontemı, tesımzı tek bır sınıufda yazdık ve kodladık
-
 
     }
 
